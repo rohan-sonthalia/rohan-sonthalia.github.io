@@ -1,0 +1,146 @@
+{
+  "basics": {
+    "name": "Rohan Sonthalia",
+    "label": "Computer Science Student & Researcher",
+    "image": "",
+    "email": "sonthaliarohan@gmail.com",
+    "phone": "+91 8334977754",
+    "url": "linkedin.com/in/rohan-sonthalia",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "linkedin.com/in/rohan-sonthalia"
+      },
+      {
+        "network": "GitHub",
+        "url": "github.com/rohan-sonthalia"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Tune AI (formerly NimbleBox.ai)",
+      "position": "Software Engineer Intern",
+      "location": "Chennai, India",
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-01",
+      "summary": "Worked on API testing and Large Language Model implementations",
+      "highlights": [
+        "Curated Automated API Testing suites for web servers using Golang",
+        "Implemented Structured Language Generation for LLMs",
+        "Finetuned Stable-Diffusion-XL base with refiner on FLAX pipeline",
+        "Leveraged Golang packages for server application configurations"
+      ]
+    },
+    {
+      "name": "NimbleBox.ai",
+      "position": "Software Engineer Intern",
+      "location": "Chennai, India",
+      "startDate": "2022-07-01",
+      "endDate": "2023-08-01",
+      "summary": "Worked on LLM fine-tuning and infrastructure development",
+      "highlights": [
+        "Fine-tuned LLMs using Parameter Efficient Fine-tuning and LoRA",
+        "Built end-to-end API testing suites using Postman",
+        "Developed Infrastructure as Code templates on Pulumi",
+        "Created Internal Notification CronJob for DDoS prevention",
+        "Developed filters for removing malicious users"
+      ]
+    }
+  ],
+  "research": [
+    {
+      "organization": "Dumeaux Lab, University of Western Ontario",
+      "position": "MITACS Globalink Research Intern",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-01",
+      "summary": "Conducted Deep Archetypal Analysis on gut microbiome data",
+      "highlights": [
+        "Analyzed nonlinear combinations of Gene Expression Programs",
+        "Curated dataset from 38 different studies",
+        "Preprocessed compositional data through log-ratio transformations",
+        "Compared multiple deepAA models"
+      ]
+    },
+    {
+      "organization": "Solis-Lemus Lab, Wisconsin Institute of Discovery",
+      "position": "Research Assistant",
+      "startDate": "2023-07-01",
+      "endDate": "2024-09-01",
+      "summary": "Extended the BioKlustering project for phenotype-genotype correlations",
+      "highlights": [
+        "Used transformers for DNA sequence embedding",
+        "Implemented neural networks for phenotype predictions",
+        "Conducted research on semi-supervised learning",
+        "Presented at ML+X Forum",
+        "Attended Wisconsin Institute for Discovery Symposium"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin-Madison",
+      "location": "Madison, Wisconsin",
+      "area": "Computer Science",
+      "studyType": "Visiting International Student",
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-01",
+      "score": "3.91/4.00"
+    },
+    {
+      "institution": "SRM Institute of Science and Technology",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2021-01-01",
+      "endDate": "2025-05-01",
+      "score": "9.9/10.0"
+    },
+    {
+      "institution": "Don Bosco School Park Circus",
+      "studyType": "High School Diploma",
+      "endDate": "2021-03-01",
+      "score": "94.5%"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Performance Based Scholarship",
+      "date": "2023-01-01",
+      "awarder": "SRM Institute of Science and Technology"
+    },
+    {
+      "title": "National Stage Qualification",
+      "date": "2022-01-01",
+      "awarder": "ABU Robocon"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["Python", "Java", "C++", "R", "Golang", "MATLAB", "JavaScript"]
+    },
+    {
+      "name": "Tools and Frameworks",
+      "keywords": ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV", "Docker", "Kubernetes", "Flask", "SQLAlchemy"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "BioKlustering",
+      "summary": "Web App for Phenotype Predictions from Genotype",
+      "highlights": [
+        "Developed DNA sequence embedding methods using transformers",
+        "Implemented autoencoders and kmer-cants",
+        "Deployed interactive web app for real-time DNA sequence analysis"
+      ]
+    },
+    {
+      "name": "Automated Online Video KYC Tool",
+      "summary": "Designed a tool using OpenCV and gTTS libraries for automating KYC processes with regional-language UI"
+    },
+    {
+      "name": "AutoPreprocessor Library",
+      "summary": "Created a Python library to automate data preprocessing workflows using Scikit-learn, Pandas, and Numpy"
+    }
+  ]
+}
